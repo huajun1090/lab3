@@ -1,0 +1,9 @@
+Goal
+    -Mkae a frame
+    -Button to change pull
+    -each time click on the pool make a pull, its will show picture and name of pokemon
+    -maybe make a button on the bottom for reroll
+
+    addon
+    -anime on the pull, using the anime js
+    -
